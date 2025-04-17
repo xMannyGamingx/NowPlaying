@@ -11,11 +11,12 @@ Download the latest release from the Releases page and extract it somewhere.
 
 * Set up Spotilocal: 
     * Navigate to the extracted folder and run `Spotilocal-vX.X.XX.exe`.
+    * Log in to your Spotify
     * Right click the tray icon, make sure `Large Image`, `Empty content files when paused`, `Save JSON state file`, `Save track history`, and `Enable web widget` are enabled.
       
 * Set up Simple Web Server:
     * Navigate to the extracted folder, run and install `Simple-Web-Server-Installer-X.X.XX.exe`
-    * Once installed set the path to the extracted folder, for example: `C:\Users\Manny\Downloads\NowPlaying`
+    * Once installed, create a new server and set the path to the extracted folder, for example: `C:\Users\Manny\Downloads\NowPlayingRevamped\NowPlayingFinal`
     * Turn on `Accessible on local network`
     * Copy the URL
 
