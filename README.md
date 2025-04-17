@@ -30,10 +30,5 @@ And that's it, it's that easy!
 
 If you want a solution for macOS, check out [NowPlayingRetreiver](https://github.com/adarhef/NowPlayingRetriever). Sadly it can't be used with this widget.
 
-## Contributing
-
-Pull requests are more than welcome to address any issue you see and expand on this project further. It'd be best to discuss your ideas in an Issue first though.
-
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
