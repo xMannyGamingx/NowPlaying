@@ -31,5 +31,7 @@ And that's it, it's that easy!
 
 If you want a solution for macOS, check out [NowPlayingRetreiver](https://github.com/adarhef/NowPlayingRetriever). Sadly it can't be used with this widget.
 
+Only supports OBS 27.2 and onwards.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
