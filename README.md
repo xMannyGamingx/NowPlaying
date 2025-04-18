@@ -1,4 +1,6 @@
 # Now Playing
+Demo:
+[![Demo](https://img.youtube.com/vi/yutA01A8jV0/maxresdefault.jpg)](https://youtu.be/yutA01A8jV0)
 
 Now Playing is a webpage widget that tracks and visualizes what's playing on Spotify.
 
