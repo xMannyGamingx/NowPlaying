@@ -29,7 +29,8 @@ And that's it, it's that easy!
 
 ## Notes
 
-If you want a solution for macOS, check out [NowPlayingRetreiver](https://github.com/adarhef/NowPlayingRetriever). Sadly it can't be used with this widget.
+If you want a solution for macOS, check out [NowPlayingRetreiver](https://github.com/adarhef/NowPlayingRetriever).
+If you want iTunes support, use the original [repo](https://github.com/adarhef/NowPlaying) for now...
 
 Only supports OBS 27.2 and onwards.
 
